@@ -1,0 +1,129 @@
+HUNGRY ROBOTS – EASY MODE
+
+Sample Game Output
+
+==================================================
+             HUNGRY ROBOTS
+                EASY MODE
+==================================================
+
+Escape from the hungry robots!
+Make the robots crash into each other.
+Use teleportation when you are in danger.
+
+Press Enter to start...
+
+
+==================================================
+##################################################
+#                                                #
+#       R                                        #
+#                  #                             #
+#                                                #
+#                         R                      #
+#                                                #
+#     #                                          #
+#                                                #
+#                              #                 #
+#                                                #
+#                  @                             #
+#                                                #
+#        R                                       #
+#                                                #
+#                           #                    #
+#                                                #
+#                                     R          #
+#                                                #
+#   #                                            #
+#                                                #
+#                R                               #
+#                                                #
+##################################################
+==================================================
+Robots remaining: 5
+Turn: 0
+
+Movement controls:
+ Q   W   E
+ A   S   D
+ Z   X   C
+
+T = Teleport
+QUIT = Exit
+Teleports remaining: 6
+Enter your move: T
+
+==================================================
+Robots remaining: 5
+Turn: 1
+
+Movement controls:
+ Q   W   E
+ A   S   D
+ Z   X   C
+
+T = Teleport
+QUIT = Exit
+Teleports remaining: 5
+Enter your move: W
+
+==================================================
+Robots remaining: 3
+Turn: 2
+
+Movement controls:
+ Q   W   E
+ A   S   D
+ Z   X   C
+
+T = Teleport
+QUIT = Exit
+Teleports remaining: 5
+Enter your move: D
+
+==================================================
+Robots remaining: 1
+Turn: 3
+
+Movement controls:
+ Q   W   E
+ A   S   D
+ Z   X   C
+
+T = Teleport
+QUIT = Exit
+Teleports remaining: 5
+Enter your move: T
+
+==================================================
+##################################################
+#                                                #
+#                                                #
+#       X                                        #
+#                                                #
+#                  #                             #
+#                                                #
+#                         X                      #
+#                                                #
+#                                                #
+#             @                                  #
+#                                                #
+#       #                                        #
+#                                                #
+#                         X                      #
+#                                                #
+#                                                #
+#                  X                             #
+#                                                #
+#                                                #
+#       X                                        #
+#                                                #
+#                                                #
+##################################################
+==================================================
+Robots remaining: 0
+Turn: 4
+
+CONGRATULATIONS!
+You defeated all the robots!
+You won the game!
