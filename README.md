@@ -1,6 +1,6 @@
-# Hungry_Robots_Python_Game
+# Hungry_Robots_Python_project
 
-Hungry robots game implemented using python
+Hungry robots project implemented using python
 
  # About the Project
 
